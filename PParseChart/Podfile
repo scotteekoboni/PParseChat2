@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'PParseChart' do
+  use_frameworks!
+
+  # Pods for PParseChart
+  pod 'Parse'
+
+  
+
+  target 'PParseChartTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'PParseChartUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

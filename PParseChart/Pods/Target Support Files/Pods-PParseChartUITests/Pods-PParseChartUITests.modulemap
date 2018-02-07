@@ -1,0 +1,6 @@
+framework module Pods_PParseChartUITests {
+  umbrella header "Pods-PParseChartUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

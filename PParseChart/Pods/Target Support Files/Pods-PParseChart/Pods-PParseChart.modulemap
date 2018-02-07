@@ -1,0 +1,6 @@
+framework module Pods_PParseChart {
+  umbrella header "Pods-PParseChart-umbrella.h"
+
+  export *
+  module * { export * }
+}
